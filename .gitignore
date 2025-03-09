@@ -1,5 +1,8 @@
+# Ignorar arquivos específicos
 Findex.html
 manifest.json
-vendor
-platforms
-node_modules
+
+# Ignorar pastas
+vendor/
+platforms/
+node_modules/
